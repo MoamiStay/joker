@@ -1,0 +1,24 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "\"funky description\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MoamiStay/joker.git"
+  },
+  "keywords": [
+    "\"test",
+    "jokes",
+    "ja\""
+  ],
+  "author": "Regine Naas <reginenaas@yahoo.no>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoamiStay/joker/issues"
+  },
+  "homepage": "https://github.com/MoamiStay/joker#readme"
+}
